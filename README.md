@@ -1,2 +1,5 @@
 # stem-piano-top
-Hybrid MIDI digital pianos top level
+
+Location for all things common to all pianos.
+
+Contributing guidelines: [./CONTRIBUTING.md](./CONTRIBUTING.md)
