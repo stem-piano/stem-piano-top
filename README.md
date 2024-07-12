@@ -2,6 +2,8 @@
 
 This repository is the location for all things common to all pianos.
 
+If you build or play a *stem piano*, please share about it in the Show & Tell Discussions of this repository.
+
 ## Resources
 
 Contributing guidelines: [CONTRIBUTING.md](./CONTRIBUTING.md)
