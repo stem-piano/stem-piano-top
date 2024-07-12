@@ -6,7 +6,10 @@ Before building boards take a look at any pending hardware changes or known prob
 
 Similarly, if the piano is not working properly, check if the symptoms are covered in the [Issues](https://github.com/gzweigle/DIY-Grand-Digital-Piano/issues) list. This could provide help in fixing.
 
-In addition to the information below, since starting the project I have been documenting progress in YouTube videos. Please see [documentation/video_documentation.md](documentation/video_documentation.md) for links to the videos. These videos are a historical source of information that could be helpful when trying to debug problems.
+In addition to the information below, since starting the project I have been documenting progress in YouTube videos. These videos are a historical source of information that could be helpful when trying to debug problems.
+
+https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/main/documentation/video_documentation.md
+
 
 There are a couple of piano forums and also the https://forum.pjrc.com/ that could be good sources for information and questions.
 
@@ -50,7 +53,7 @@ Check that all integrated circuits are installed with pin 1 matching the * print
 
 If the Teensy is socketed, check if it was accidentally installed rotated 180 degrees.
 
-Some header files include code that #define out functionality. Check the #defines in header files (for example stem_piano_ips2.h) to see if this happening.
+Some header files include code that #define out functionality. Check the #defines in header files to see if this happening.
 
 Some boards can be put into a special modes for TFT display. In these modes, notes may not play. Check the DIP switch positions.
 
