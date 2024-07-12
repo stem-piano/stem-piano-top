@@ -32,6 +32,12 @@ Purpose: Collaboration on sensor designs.
 
 Link: https://github.com/stem-piano/sensor-systems
 
+### (3) orders
+
+Purpose: Place to share order information.
+
+https://github.com/stem-piano/orders
+
 ## Why a GitHub Organization?
 
 It is a better approach in case of multiple contributors.

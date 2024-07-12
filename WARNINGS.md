@@ -26,7 +26,7 @@ An external light source can trigger the sensors and cause one or many loud note
 
 Also, although unlikely, problems or bugs with the piano could cause multiple (even all 88) notes to play at the maximum MIDI volume level unexpectedly. This could happen even if the piano is not in use. See example from a *stem piano* video:
 
-https://youtu.be/gNeLMGaxmG0?t=185
+https://youtu.be/gNeLMGaxmG0?t=173
 
 Before playing, powering up, or using the piano in any way, please verify with another MIDI program as source that volume and all other parameters are acceptable in the event of any piano problem, including as described above. Also, check for external light triggers before increasing volume.
 
@@ -38,7 +38,7 @@ https://www.pjrc.com/teensy/external_power.html
 
 The recommended option is cutting the 5V pad on the Teensy 4.1 before using or powering the piano.
 
-It is possible to power *stem piano* circuit boards through the USB and without a separate +5 power connection. This setup is great for debugging. However, when *stem piano* has all 88 key sensors connected, the total current draw will likely exceed the capability of an external computer that is trying to power the board through a USB cable connected to the Teensy 4.1.
+It is possible to power *stem piano* circuit boards through the USB and without a separate +5 volt power connection. This setup is great for debugging. However, when *stem piano* has all 88 key sensors connected, the total current draw will likely exceed the capability of an external computer that is trying to power the board through a USB cable connected to the Teensy 4.1.
 
 ## Power Supply Protection
 

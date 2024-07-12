@@ -18,8 +18,8 @@ Use or create a repository here: https://github.com/stem-piano
 
 New pianos go in new repositories.
 
-Naming:
-* Follow *stem piano* + model + model letter convention. Reserved letters: A, B, C, D, L, M, O, S, X, Z. Used letters: G.
+Naming suggestions.
+* *stem piano* + model + model letter convention. Reserved letters: A, B, C, D, L, M, O, S, X, Z. Used letters: G.
 * Other conventions for name following *stem piano* may be suggested.
 
 ## General Guidelines
