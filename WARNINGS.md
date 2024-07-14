@@ -36,9 +36,9 @@ The Teensy 4.1 shorts its USB power connection and its +5 volt power pin. Please
 
 https://www.pjrc.com/teensy/external_power.html
 
-The recommended option is cutting the 5V pad on the Teensy 4.1 before using or powering the piano.
+The recommended option is cutting the 5V pad on the Teensy 4.1 before using or powering the piano. Validate the pad is cut with an ohmmeter.
 
-It is possible to power *stem piano* circuit boards through the USB and without a separate +5 volt power connection. This setup is great for debugging. However, when *stem piano* has all 88 key sensors connected, the total current draw will likely exceed the capability of an external computer that is trying to power the board through a USB cable connected to the Teensy 4.1.
+It is possible to power *stem piano* circuit boards through the USB and without a separate +5 volt power connection. This setup is great for debugging. However, when *stem piano* has all 88 key sensors connected, the total current draw will exceed the capability of an external computer that is trying to power the board through a USB cable connected to the Teensy 4.1.
 
 ## Power Supply Protection
 
