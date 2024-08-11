@@ -47,6 +47,8 @@ If using multiple boards (hammer board and damper board), with two instances of 
 
 ## The Piano Does Not Work At All
 
+A fuse may have activated. Test the fuse with a multimeter. The following *stem piano* YouTube video documents replacing a fuse: https://www.youtube.com/watch?v=TsNTWSIT84I. Before powering the board again, determine why the fuse opened.
+
 Use a multimeter or oscilloscope to verify +5V and +3.3V locations on the circuit board are getting power.
 
 Check that all integrated circuits are installed with pin 1 matching the * printed on schematic.
@@ -90,6 +92,8 @@ Very loud sound(s):
 * Make sure the sensors are shielded from ambient light.
 * Try rerunning the calibration process. See the *Users Manual*.
 * Turn volume on speakers down.
+
+A fuse may have activated. Test the fuse with a multimeter. The following *stem piano* YouTube video documents replacing a fuse: https://www.youtube.com/watch?v=TsNTWSIT84I. Before powering the board again, determine why the fuse opened.
 
 ## Playability
  
